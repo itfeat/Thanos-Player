@@ -12,7 +12,7 @@
 
 #### 1.2.1 下载
 
-1. [点我进入机器码下载页面](https://github.com/itfeat/Thanos-Player/releases)
+1. [点我进入播放器下载页面](https://github.com/itfeat/Thanos-Player/releases)
 2. 选择 **Thanos-Player-mac-1.0.0.dmg**
 
 #### 1.2.2 安装
