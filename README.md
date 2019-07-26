@@ -7,7 +7,7 @@
 #### 1.1.1 下载
 
 1. 点我进入播放器下载页面](https://github.com/itfeat/Thanos-Player/releases)
-2. 选择 **Thanos-Player-mac-1.0.0.exe**
+2. 选择 **Thanos-Player-win-1.0.0.exe**
 
 #### 1.1.2 安装
 
