@@ -6,7 +6,32 @@
 
 #### 1.1.1 下载
 
+1. 点我进入播放器下载页面](https://github.com/itfeat/Thanos-Player/releases)
+2. 选择 **Thanos-Player-mac-1.0.0.exe**
+
 #### 1.1.2 安装
+
+1. 双击 **Thanos-Player-mac-1.0.0.exe**
+
+   ![image-20190726145311019](http://ww2.sinaimg.cn/large/006tNc79ly1g5d8v1xbwzj30h20ck3z1.jpg)
+
+2. 点击 **下一步**
+
+   ![](http://ww4.sinaimg.cn/large/006tNc79ly1g5d8w5pnv5j30h30cfjrx.jpg)
+
+3. 点击 **安装**
+
+   ![](http://ww3.sinaimg.cn/large/006tNc79ly1g5d8x7kubsj30he0cmjry.jpg)
+
+4. 等待安装完成，并点击完成
+
+   ![](http://ww2.sinaimg.cn/large/006tNc79ly1g5d995xkhij30h40cfta6.jpg)
+
+   ![](/Users/yoson/Desktop/006tNc79ly1g5d900pj2xj30h20cfq5a.png)
+
+5. 点击完成后，即可显示播放器主界面
+
+   ![](http://ww3.sinaimg.cn/large/006tNc79ly1g5d933roq8j30i80endg6.jpg)
 
 ### 1.2 MacOS
 
